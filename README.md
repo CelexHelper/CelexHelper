@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CelexHelper
+- 👀 I’m interested in Helping people fix celex
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Celex
+- 📫 How to reach me Discord:barbrecue
+- ⚡ Fun fact: i thought that i could make a doc with all the dll fixes for celex instead of having to vc people but if you need and more help vc me
